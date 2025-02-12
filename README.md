@@ -11,5 +11,3 @@ TBA
 
 ## Past Projects
 N/A
-
-### Subsection
